@@ -5,7 +5,7 @@
 Full Stack Developer passionate about creating solutions that make people's lives easier.
 
 - 🧠 Currently pursuing a Bachelor's degree in Computer Science at the Federal University of ABC (UFABC).
-- 🖥️ Currently developing the "Libray Management System" project.
+- 🖥️ Currently developing the "Library Management System" project.
 - 🌱 Currently studying **Java** ecosystem.
 
 <a href="https://www.linkedin.com/in/abnerbc" target="_blank">
