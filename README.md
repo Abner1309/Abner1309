@@ -1,4 +1,4 @@
-<img src="Matrix.png" alt="Banner of Matrix">
+<img src="Matrix.webp" alt="Banner of Matrix">
 
 ## 👋 Hi! I'm Abner!
 
