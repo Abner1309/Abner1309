@@ -5,6 +5,7 @@
 Full Stack Developer passionate about creating solutions that make people's lives easier.
 
 - 🧠 Currently pursuing a Bachelor's degree in Computer Science at the Federal University of ABC (UFABC).
+- ⭐​ I'm currently developing a graduation project based on the development of a game to assist deaf students in learning the Portuguese language.
 - 🖥️ Currently developing the "Library Management System" project.
 - 🌱 Currently studying **Java** ecosystem.
 
