@@ -4,6 +4,7 @@
 
 Full Stack Developer
 
+- 🎯 I am currently seeking internship and junior-level opportunities.
 - 🧠 I'm currently pursuing a Bachelor's degree in Computer Science at the Federal University of ABC (UFABC).
 - ⭐​ I'm currently developing a graduation project based on the development of a game to assist deaf students in learning the Portuguese language.
 - 🖥️ I'm currently developing the "Library Management System" project.
