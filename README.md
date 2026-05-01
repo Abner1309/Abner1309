@@ -2,13 +2,15 @@
 
 ## 👋 Hi! I'm Abner!
 
-Full Stack Developer
+Software Engineering Student | Backend & Systems Enthusiast
 
-- 🎯 I am currently seeking internship and junior-level opportunities.
-- 🧠 I'm currently pursuing a Bachelor's degree in Computer Science at the Federal University of ABC (UFABC).
-- ⭐​ I'm currently developing a graduation project based on the development of a game to assist deaf students in learning the Portuguese language.
-- 🖥️ I'm currently developing the "Library Management System" project.
-- 🌱 I'm currently studying **Java** ecosystem.
+- 🎯 Seeking Internship and Junior opportunities in Software Development.
+- 🧠 CS Student at UFABC (5th year).
+- ⭐​ Developing a Bilingual Educational Game (Libras/Portuguese) using Unity.
+- 🖥️ Building a Library Management System with Spring Boot and JPA.
+- 🌱 Currently studying **Java** ecosystem.
+
+## 📲 Contact
 
 <a href="https://www.linkedin.com/in/abnerbc" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="My LinkedIn">
@@ -18,9 +20,10 @@ Full Stack Developer
   <img src="https://img.shields.io/badge/GitHub_(Academic)-000000?style=for-the-badge" alt="My Academic GitHub">
 </a>
 
-## ⚙ Languages & Tools
+## 🔨 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,scala,postgres,sqlite,html,css,git,github,unity,linux&perline=6)](https://skillicons.dev)
 
+## 📊 GitHub Status
 ![abner1309's Stats](https://github-readme-stats.vercel.app/api?username=abner1309&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
 ![abner1309's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abner1309&theme=dracula&hide_border=false)
