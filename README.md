@@ -21,3 +21,8 @@ Full Stack Developer
 ## ⚙ Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,scala,postgres,sqlite,html,css,git,github,unity,linux&perline=6)](https://skillicons.dev)
 
+![abner1309's Stats](https://github-readme-stats.vercel.app/api?username=abner1309&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+
+![abner1309's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abner1309&theme=dracula&hide_border=false)
+
+![abner1309's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abner1309&theme=dracula&show_icons=true&hide_border=false&layout=compact)
