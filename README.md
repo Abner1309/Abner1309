@@ -5,6 +5,7 @@
 Software Engineering Student | Backend & Systems Enthusiast
 
 - 🎯 Seeking Internship and Junior opportunities in Software Development.
+- 🧠 Graduated with an Interdisciplinary Bachelor's Degree in Science and Technology.
 - 🧠 CS Student at UFABC (5th year).
 - ⭐​ Developing a Bilingual Educational Game (Libras/Portuguese) using Unity.
 - 🖥️ Building a Library Management System with Spring Boot and JPA.
