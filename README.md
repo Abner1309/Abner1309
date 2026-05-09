@@ -10,6 +10,7 @@ Software Engineering Student | Backend & Systems Enthusiast
 - ⭐​ Developing a Bilingual Educational Game (Libras/Portuguese) using Unity.
 - 🖥️ Building a Library Management System with Spring Boot and JPA.
 - 🌱 Currently studying **Java** ecosystem.
+- 🌱 Currently studying **Unity** ecosystem.
 
 ## 📲 Contact
 
