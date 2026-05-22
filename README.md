@@ -1,6 +1,6 @@
 <img src="Matrix.webp" alt="Banner of Matrix">
 
-## 👋 Hi! I'm Abner!
+## 👋 Hi! I am Abner!
 
 Software Engineering Student | Backend & Systems Enthusiast
 
