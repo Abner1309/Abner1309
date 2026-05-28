@@ -12,8 +12,6 @@ Software Engineering Student | Backend & Systems Enthusiast
 - 🌱 Currently studying **Java** ecosystem.
 - 🌱 Currently studying **Unity** ecosystem.
 
-♧
-
 ## 📲 Contact
 
 <a href="https://www.linkedin.com/in/abnerbc" target="_blank">
